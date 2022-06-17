@@ -1,67 +1,26 @@
 [
 {
-       "teks":
-{
-"kata1": "P"
-},
-{
-"kata2": "Ini siapa"
-},
-{
-"kata3": "lagi apa"
-},
-{
-"kata4": "bisa minta tolong?"
-},
-{
-"kata5": "ka lagi apa"
-},
-{
-"kata6": "ko g jawab"
-},
-{
-"kata7": "oii"
-},
-{
-"kata8": "bang"
-},
-{
-"kata9": "mas"
-},
-{
+"kata1": "P",
+"kata2": "Ini siapa",
+"kata3": "lagi apa",
+"kata4": "bisa minta tolong?",
+"kata5": "ka lagi apa",
+"kata6": "ko g jawab",
+"kata7": "oii",
+"kata8": "bang",
+"kata9": "mas",
 "kata10": "mba"
 },
-      "teks":
 {
-"kata1": "assalamualaikum"
-},
-{
-"kata2": "tolong"
-},
-{
-"kata3": "bantu"
-},
-{
-"kata4": "saya"
-},
-{
-"kata5": "untuk"
-},
-{
-"kata6": "membantu"
-},
-{
-"kata7": "menemukan"
-},
-{
-"kata8": "cinta"
-},
-{
-"kata9": "saya"
-},
-{
+"kata1": "assalamualaikum",
+"kata2": "tolong",
+"kata3": "bantu",
+"kata4": "saya",
+"kata5": "untuk",
+"kata6": "membantu",
+"kata7": "menemukan",
+"kata8": "cinta",
+"kata9": "saya",
 "kata10": "bukan?"
 }
-}
 ]
-      
