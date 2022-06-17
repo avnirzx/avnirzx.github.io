@@ -1,6 +1,6 @@
 [
 {
-       "teks": [
+       "teks":
 {
 "kata1": "P"
 },
@@ -30,9 +30,8 @@
 },
 {
 "kata10": "mba"
-}
-],
-      "teks": [
+},
+      "teks":
 {
 "kata1": "assalamualaikum"
 },
@@ -63,7 +62,6 @@
 {
 "kata10": "bukan?"
 }
-]
 }
 ]
       
